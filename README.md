@@ -2,7 +2,7 @@
 
 Tackle every hallway, monster, and puzzle in **Doors** with the **OP Script Hub**, your no-key all-seeing utility. From **Figure ESP** and **Key Aura** to **Event Notifiers** and **FE Entity Spawner**, this script gives you elite-level survival tools—all free and easy to run.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/U-ziii/Doors-op-script/blob/main/Doors%20OP%20Script%20-%20Full%20Visibility%20%26%20Power%20Hub%20.png)
 
 ---
 
